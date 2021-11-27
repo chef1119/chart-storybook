@@ -2,7 +2,7 @@
   "name": "react-charts",
   "author": "Derrek Julian",
   "description": "chart-storybook",
-  "repository": "tannerlinsley/react-charts",
+  "repository": "chef1119/chart-storybook",
   "module": "dist/react-charts-1.esm.js",
   "version": "0.1.0",
   "license": "MIT",
