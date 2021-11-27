@@ -1,7 +1,7 @@
 {
   "name": "react-charts",
-  "author": "Tanner Linsley",
-  "description": "Charts for React",
+  "author": "Derrek Julian",
+  "description": "chart-storybook",
   "repository": "tannerlinsley/react-charts",
   "module": "dist/react-charts-1.esm.js",
   "version": "0.1.0",
